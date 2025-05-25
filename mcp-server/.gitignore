@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*egg-info/
+.pytest_cache/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ClamAV Generated Rules
+# If you commit generated rules, remove the *.yara line.
+# Otherwise, generated rules won't be tracked.
+*.yara
+*.hdb
+
+# Cargo/Rust build artifacts (from previous warnings)
+.cargo/
+
+# Any other large local files or specific sub-directories you DO NOT want on GitHub
+# E.g., a local 'samples/' folder if you decided to put malware there
+# samples/
