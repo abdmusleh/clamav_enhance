@@ -1,0 +1,206 @@
+=== VirusTotal Scan Summary ===
+Scan Path: /root/unzipped_samples
+
+Y-TP46.EXE: DETECTED (43 engines)
+FancyBear.GermanParliament: DETECTED (48 engines)
+58643719af0f271b87c51665c2e8c904db70155b8c6f514d6e5f44c0828a4a53: DETECTED (33 engines)
+SDK320.msi: CLEAN
+vamp_demo.src: DETECTED (21 engines)
+W32.Klez.E.txt: CLEAN
+70ec0e2b6f9ff88b54618a5f7fbd55b383cf62f8e7c3795c25e2f613bfddf45d: DETECTED (58 engines)
+SillyC.160.B.txt: CLEAN
+Junkie_BOOT.IMA: DETECTED (10 engines)
+Civil_War_FILE.txt: CLEAN
+Sampo_BOOT.txt: CLEAN
+bot.apk: DETECTED (40 engines)
+Quax_A_BOOT.IMA: DETECTED (36 engines)
+Caterpillar.e.com: CLEAN
+Slow_Format.txt: CLEAN
+GREENCAT.GIF: CLEAN
+Kampana(A)_BOOT.txt: CLEAN
+Parity_Boot_B_BOOT.IMA: DETECTED (39 engines)
+773635768e738bec776dfd7504164b3596e5eee344757dd1ac9a1ad19b452c86: DETECTED (57 engines)
+DB46ADCFAE462E7C475C171FBE66DF82_paymentadvice.jar: DETECTED (35 engines)
+Trivial.881.zip: DETECTED (30 engines)
+newAsprox.zip: DETECTED (5 engines)
+FEDF1C17.wmf: CLEAN
+Slammer.txt: CLEAN
+WM_Alliance.A.txt: CLEAN
+7ZipSetup.exe: DETECTED (60 engines)
+telefonica.txt: DETECTED (22 engines)
+TOKYO_1258.EXE: DETECTED (40 engines)
+readme.txt: CLEAN
+YAUNCH.EXE: DETECTED (41 engines)
+YESMILE.EXE: DETECTED (27 engines)
+ee29b9c01318a1e23836b949942db14d4811246fdae2f41df9f0dcd922c63bc6.bin.gz: DETECTED (31 engines)
+~$INWORD: CLEAN
+Concept_A_MACRO.txt: CLEAN
+SheHas_BOOT.txt: CLEAN
+W97M_Melissa_MACRO.gif: CLEAN
+tiny.zip: DETECTED (46 engines)
+psd2000.src: DETECTED (25 engines)
+3BC9E9B78AC6DEE1A44436859849BBBF_NvSmart.hlp_: CLEAN
+SYMANT~2.HTM: CLEAN
+fcf603f5d5e788c21acd4a1c7b36d6bc8f980b42cf1ef3f88e89735512637c24: DETECTED (35 engines)
+Pot_A_BATCH.txt: CLEAN
+RUNME.COM: DETECTED (30 engines)
+W97M_Pri.AB .txt: CLEAN
+ING.apk: DETECTED (40 engines)
+18884936d002839833a537921eb7ebdb073fa8a153bfeba587457b07b74fb3b2: DETECTED (45 engines)
+1215584b4fa69130799f6cf5efe467f380dc68b14ed2c76f63ca6b461ad57246: CLEAN
+W97_Class_AV_MACRO.txt: CLEAN
+readme_nimda.txt: CLEAN
+WM_Minimal_AB_MACRO.txt: CLEAN
+W32Mytob-EJ.txt: CLEAN
+W32_Hybris_gen_MMVirus.txt: DETECTED (1 engines)
+Friday_the_13th.408.com: DETECTED (41 engines)
+Nyb_Boot.txt: CLEAN
+ami.com: DETECTED (34 engines)
+debug.bat: CLEAN
+cee88ffae63cd95e4f9f7008a86a8d7818a47b62608d28a70bbe8d73c6d2b042: DETECTED (34 engines)
+SYMANT~1.HTM: CLEAN
+CW-0282.COM: DETECTED (43 engines)
+cfca38c408c95e45cdf797723dc5cdb0d6dadb1b8338a5fda6808ce9a04e6486: DETECTED (43 engines)
+GREEN.EXE: DETECTED (43 engines)
+Yesmile_FILE.txt: CLEAN
+text01_gary.hart.zip: CLEAN
+SNOOPY.C: CLEAN
+SLIDE.DAT: CLEAN
+Ansi.Lsd.zip: DETECTED (6 engines)
+viking.apk: DETECTED (37 engines)
+Parity_Boot_B_BOOT.txt: CLEAN
+WM_NJ_WMVCK2_T_MACRO.zip: DETECTED (44 engines)
+Cap_A_MACRO.txt: CLEAN
+ScanSlam - SQLslammer vulnerability scanner.htm: CLEAN
+Win32_klez.exe: DETECTED (2 engines)
+Friday_the_13th.540.A.com: DETECTED (41 engines)
+X21: DETECTED (33 engines)
+SourceURL.txt: CLEAN
+I-Worm.Nimda.zip: DETECTED (54 engines)
+FC88BEEB7425AEFA5E8936E06849F484_~$INWORD_: CLEAN
+Junkie_BOOT.txt: CLEAN
+i-Worm.Nimda.txt: CLEAN
+readme.1st: DETECTED (4 engines)
+Win32.ShadowHammer.bin: DETECTED (6 engines)
+Anti_Exe_BOOT.txt: CLEAN
+swen md5's.txt: CLEAN
+Nyb_Boot.ima: DETECTED (38 engines)
+Win32.Jerusalem: CLEAN
+INTC_BOOT.IMA: DETECTED (33 engines)
+ZHR1958.EXE: DETECTED (39 engines)
+Netcraft www_sco_com is a weapon of mass destruction.htm: CLEAN
+INTC_BOOT.txt: CLEAN
+mqjbtxwl.fee: DETECTED (6 engines)
+b81b10bdf4f29347979ea8a1715cbfc560e3452ba9fffcc33cd19a3dc47083a4: DETECTED (5 engines)
+TOKYO_1258.DOC: CLEAN
+VBSLOVELETTER.TXT: DETECTED (19 engines)
+Yankee_login_3052_FILE.txt: CLEAN
+W32.Mydoom.htm: CLEAN
+FixKlez.com: CLEAN
+F1E546FE9D51DC96EB766EC61269EDFB: DETECTED (24 engines)
+TOAD2.COM: DETECTED (30 engines)
+Yankee_Doodle_2997_FILE.txt: CLEAN
+michelangelo.zip: DETECTED (8 engines)
+FIX_NIMDA.exe: DETECTED (10 engines)
+~WINWORD: CLEAN
+I_Love_U.txt: CLEAN
+vamp_demo.nfo: CLEAN
+vic.nfo: CLEAN
+ba0a74f2227e32f4cee2e7358979547cf15fd19ea6c72144773f087621bdb4b4: DETECTED (24 engines)
+SheHas_BOOT.IMA: DETECTED (38 engines)
+W97M_Melissa_MACRO.txt: CLEAN
+.DS_Store: CLEAN
+FORMAT.COM: DETECTED (42 engines)
+infect.txt: CLEAN
+soy.exe: DETECTED (49 engines)
+Kampana(A)_BOOT.IMA: DETECTED (34 engines)
+Drop_BATCH.txt: CLEAN
+Green_Catapiller_FILE.gif: CLEAN
+ee21378abf78e31d79f9170e76d01ffb74aa65ce885937fb5bc1e71dff68627d: DETECTED (45 engines)
+W32_HLLP_Hantaner.A.htm: CLEAN
+f-mydoom.exe: DETECTED (10 engines)
+SKULL_~1.BAT: DETECTED (38 engines)
+Skull_BATCH.txt: CLEAN
+WM_NJ_WMVCK2_T_MACRO.txt: CLEAN
+Exit.log: CLEAN
+FixKlez.log: CLEAN
+Informations.zip: CLEAN
+Form_A_BOOT.IMA: DETECTED (40 engines)
+Brain.A.img: DETECTED (41 engines)
+W32.Elkern.4926.txt: CLEAN
+Brain.A.txt: CLEAN
+Skygofree_pe.jar: DETECTED (48 engines)
+X21.C: CLEAN
+94C4972C.wmf: CLEAN
+Zherkov_2970_FILE.txt: CLEAN
+Prod.t: CLEAN
+6B97B3CD2FCFB4B74985143230441463_Gadget.exe_: CLEAN
+Yankee_Doodle_2881_A_FILE.txt: CLEAN
+New Xagent Mac Malware Linked with the APT28 _ Bitdefender Labs.pdf: CLEAN
+version.com: DETECTED (34 engines)
+I-Worm.NewLove.zip: DETECTED (46 engines)
+fe2e5d0543b4c8769e401ec216d78a5a3547dfd426fd47e097df04a5f7d6d206_OFkNP1kKL9.bin.gz: DETECTED (46 engines)
+wirelesskeyview.exe: DETECTED (62 engines)
+X97_Sugar_A_MACRO.txt: CLEAN
+027cc450ef5f8c5f653329641ec1fed91f694e0d229928963b30f6b0d7d3a745_98STJd8lju.bin.gz: DETECTED (51 engines)
+ING_.apk: DETECTED (33 engines)
+Skygofree_exploits.zip: DETECTED (38 engines)
+W97M_M~1.SRC: DETECTED (43 engines)
+HTML.Lame.HTM: DETECTED (41 engines)
+info.txt: CLEAN
+WM_Npad_A_MACRO.txt: CLEAN
+ArdamaxKeylogger_E33AF9E602CBB7AC3634C2608150DD18: DETECTED (63 engines)
+sugar.nfo: CLEAN
+70A1C4ED3A09A44A41D54C4FD4B409A5FC3159F6_XAgent_OSX: DETECTED (46 engines)
+Jumper_BOOT.IMA: DETECTED (36 engines)
+Friday_the_13th.416.B.com: DETECTED (43 engines)
+Sampo_BOOT.IMA: DETECTED (38 engines)
+Yeke_1204_FILE.txt: CLEAN
+Win32.Cainxpii: CLEAN
+sugar.src: DETECTED (13 engines)
+W32_Hybris_gen_MMVirus.jpg: CLEAN
+6c9c6966ce269bbcab164aca3c3f0231af1f7b26a18e5abc927b2ccdd9499368.docx: DETECTED (33 engines)
+X97.MSugar.Poppy.II.txt: CLEAN
+W97_Pri_A_MACRO.txt: CLEAN
+slide.exe: CLEAN
+Trivial.Html.883.HTM: DETECTED (37 engines)
+SNOOPY: DETECTED (37 engines)
+Jumper_BOOT.txt: CLEAN
+Proe.t: CLEAN
+olderAsprox.zip: DETECTED (3 engines)
+Quox_A_BOOT.txt: CLEAN
+ANSI881.ANS: DETECTED (30 engines)
+Yaunch_2537_FILE.txt: CLEAN
+15540D149889539308135FA12BEDBCBF: DETECTED (39 engines)
+I-Worm.CodeRed.TXT: DETECTED (8 engines)
+data.zip: CLEAN
+rihannew.jpg: DETECTED (3 engines)
+Y-L3052.EXE: DETECTED (43 engines)
+fix.zip: DETECTED (2 engines)
+I-Worm.Newlove.txt: CLEAN
+5F9F8AC1F749B0637ECA6EF15910BF21_~WINWORD_: CLEAN
+michelangelo.txt: CLEAN
+LSD.ANS: DETECTED (5 engines)
+Anti_EXE_BOOT.IMA: DETECTED (38 engines)
+W32.Klez.H.txt: CLEAN
+michelangelocode.txt: CLEAN
+YEKE1204.EXE: DETECTED (40 engines)
+Andr.PegasusB.apk: DETECTED (42 engines)
+MICHELAN.ASM: DETECTED (6 engines)
+Friday_the_13th.416.A.com: DETECTED (40 engines)
+ZHR2970.EXE: DETECTED (42 engines)
+X23.C: CLEAN
+KIDDIEZ.TXT: CLEAN
+X23: DETECTED (39 engines)
+TheBigBangAPT.doc: DETECTED (4 engines)
+nobrains.zip: DETECTED (4 engines)
+Form_A_BOOT.txt: CLEAN
+Green_Catapillar_FILE.txt: CLEAN
+W32.Mydoom2.htm: CLEAN
+Shylock.comments: CLEAN
+
+=== Summary ===
+Total Samples Scanned: 197
+Detected Samples: 97
+Undetected/Unknown Samples: 100
+Total Time: 3185.16 seconds

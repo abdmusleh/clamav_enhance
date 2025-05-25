@@ -26,7 +26,9 @@ Thumbs.db
 
 # Cargo/Rust build artifacts (from previous warnings)
 .cargo/
-
+# # ClamAV Generated Rules (commented out to allow tracking specific .yara files)
+# *.yara
+*.hdb
 # Any other large local files or specific sub-directories you DO NOT want on GitHub
 # E.g., a local 'samples/' folder if you decided to put malware there
 # samples/
